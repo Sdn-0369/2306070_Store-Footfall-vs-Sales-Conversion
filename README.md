@@ -101,7 +101,11 @@ The project focuses on building a reliable data pipeline that can clean, validat
                    SQL Analysis
 
 
+
+---
+
 ## Author
 
 **Subham Debnath**
 
+---
